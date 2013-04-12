@@ -1,0 +1,28 @@
+{
+  "name": "nesh-hello",
+  "version": "1.0.0",
+  "description": "An example plugin for Nesh",
+  "homepage": "http://danielgtaylor.github.io/nesh/",
+  "main": "hello.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielgtaylor/nesh-hello"
+  },
+  "bugs": {
+    "url": "https://github.com/danielgtaylor/nesh-hello/issues"
+  },
+  "keywords": [
+    "nesh",
+    "plugin",
+    "example"
+  ],
+  "author": {
+    "name": "Daniel G. Taylor",
+    "email": "danielgtaylor@gmail.com",
+    "url": "http://programmer-art.org/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
