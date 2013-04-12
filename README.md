@@ -21,7 +21,7 @@ Usage
 Once installed and enabled, you will have a new function exposed in the interpreter:
 
 #### hello ([name='world'])
-Return a string like `"Hello, #{name}!".
+Return a string like `"Hello, #{name}!"`.
 
 License
 -------
